@@ -1,8 +1,10 @@
 
 print ("hello world")
+<<<<<<< HEAD
 print ("what is your name?")
-Name = "goatus"
+Name = input()
+print("Nice to meet you" + Name
 print("Nice to meet you " + Name)
 for i in range(10) :
 	print("hello world")
-	i = i + 1 
+	print("hello" + Name)
