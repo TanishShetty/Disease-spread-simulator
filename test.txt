@@ -1,8 +1,9 @@
 
-print "hello world"
+print ("hello world")
 print "what is your name?"
 Name = input()
 print("Nice to meet you" + Name)
 for i < 10:
-	print "hello world"
+	print("hello world")
+	print("hello" + Name)
 	i = i + 1 
